@@ -1,0 +1,4 @@
+USAGE Claude-Opus-5.5-Free
+claude opus. opus 5.5 api. Sonnet fallback.
+Extract. Run. See readme.
+Stamp rev-p2lg3n-20261021
